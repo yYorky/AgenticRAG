@@ -1,6 +1,6 @@
 # AGENTIC RAG - Let's discuss with my AI clones 🤖🗂️
 
-![Chatbot Banner](https://static.wikia.nocookie.net/naruto/images/5/5f/Shadow_clones.jpg)
+![Chatbot Banner](https://raw.githubusercontent.com/yYorky/AgenticRAG/refs/heads/main/static/Clones%20York.png)
 
 ## Motivation ✨
 

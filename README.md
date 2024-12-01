@@ -145,8 +145,3 @@ AGENTIC RAG/
    - Responses are displayed incrementally.
    - Sources and search results are shown in an expandable section.
 
----
-
-## Contributing 🤝
-
-We welcome contributions! Fork the repository, create a feature branch, and submit a pull request.

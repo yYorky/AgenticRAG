@@ -12,6 +12,8 @@ This application is ideal for professionals, researchers, and enthusiasts who wa
 
 ## Features 🧰
 
+![Chatbot Banner](https://static.wikia.nocookie.net/naruto/images/5/5f/Shadow_clones.jpg)
+
 - **Three Specialized AI Clones**:
   - **Rag_York**: Uses RAG to retrieve and summarize content from uploaded PDF documents.
   - **Wiki_York**: Searches Wikipedia for relevant information using inferred keywords from user input.

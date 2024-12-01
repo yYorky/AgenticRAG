@@ -1,0 +1,7 @@
+groq
+python-dotenv
+numpy
+streamlit
+langchain_google_genai
+langchain-groq
+langchain_community

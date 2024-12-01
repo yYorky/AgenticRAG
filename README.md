@@ -1,4 +1,4 @@
-# AGENTIC RAG - DISCUSSION WITH MY AI CLONES 🤖🗂️
+# AGENTIC RAG - Let's discuss with my AI clones 🤖🗂️
 
 ![Chatbot Banner](https://static.wikia.nocookie.net/naruto/images/5/5f/Shadow_clones.jpg)
 
@@ -12,7 +12,7 @@ This application is ideal for professionals, researchers, and enthusiasts who wa
 
 ## Features 🧰
 
-![Chatbot Banner](https://static.wikia.nocookie.net/naruto/images/5/5f/Shadow_clones.jpg)
+![Chatbot Banner](https://raw.githubusercontent.com/yYorky/AgenticRAG/refs/heads/main/static/AI%20Clones%20Chat.JPG)
 
 - **Three Specialized AI Clones**:
   - **Rag_York**: Uses RAG to retrieve and summarize content from uploaded PDF documents.

@@ -84,14 +84,14 @@ AGENTIC RAG/
 
 1. 📥 **Clone the repository**
    ```bash
-   git clone https://github.com/your_username/discussion_ai_clones.git
-   cd discussion_ai_clones
+   git clone https://github.com/yYorky/AgenticRAG.git
+   cd AgenticRAG
    ```
 
 2. 🐍 **Set up a virtual environment**
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   conda create -n <ENV_NAME> python=3.10
+   conda activate <ENV_NAME>
    ```
 
 3. 📦 **Install dependencies**
